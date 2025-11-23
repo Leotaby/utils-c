@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / cache files for Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled object files and executables (C/C++)
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+
+# CMake build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
